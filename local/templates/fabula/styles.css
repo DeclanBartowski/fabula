@@ -1,0 +1,9 @@
+.mrgMoreBtn {
+    margin: 0 auto;
+}
+
+[onclick] {
+    cursor: pointer;
+}
+
+a{text-decoration: none;}
